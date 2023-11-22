@@ -1,7 +1,7 @@
 <template>
   <a-layout-footer style="text-align: center">
     Made with
-    <a-icon type="heart" theme="twoTone" twoToneColor="#eb2f96" /> by Huu Canh ©{{ getCurrentYear() }}
+    <a-icon type="heart" theme="twoTone" twoToneColor="#eb2f96" /> by Thanh Dat ©{{ getCurrentYear() }}
   </a-layout-footer>
 </template>
 
